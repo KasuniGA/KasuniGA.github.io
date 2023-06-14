@@ -1,0 +1,36 @@
+.container-fluid {
+    background-color: #F4DEDF;
+    background-image: -webkit-linear-gradient(270deg,rgba(244,242,173,1.00) 7.05%,rgba(253,137,93,1.00) 33.79%,rgba(244,242,173,1.00) 59.07%,rgba(244,242,173,1.00) 78.45%,rgba(253,137,93,1.00) 95.96%);
+    background-image: -moz-linear-gradient(270deg,rgba(244,242,173,1.00) 7.05%,rgba(253,137,93,1.00) 33.79%,rgba(244,242,173,1.00) 59.07%,rgba(244,242,173,1.00) 78.45%,rgba(253,137,93,1.00) 95.96%);
+    background-image: -o-linear-gradient(270deg,rgba(244,242,173,1.00) 7.05%,rgba(253,137,93,1.00) 33.79%,rgba(244,242,173,1.00) 59.07%,rgba(244,242,173,1.00) 78.45%,rgba(253,137,93,1.00) 95.96%);
+    background-image: linear-gradient(180deg,rgba(244,242,173,1.00) 7.05%,rgba(253,137,93,1.00) 33.79%,rgba(244,242,173,1.00) 59.07%,rgba(244,242,173,1.00) 78.45%,rgba(253,137,93,1.00) 95.96%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    background-image: -webkit-linear-gradient(270deg,rgba(163,101,83,1.00) 23.01%,rgba(163,101,83,1.00) 99.48%,rgba(163,101,83,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(163,101,83,1.00) 23.01%,rgba(163,101,83,1.00) 99.48%,rgba(163,101,83,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(163,101,83,1.00) 23.01%,rgba(163,101,83,1.00) 99.48%,rgba(163,101,83,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(163,101,83,1.00) 23.01%,rgba(163,101,83,1.00) 99.48%,rgba(163,101,83,1.00) 100.00%);
+}
+.container-fluid .container footer {
+    background-color: #A36553;
+    font-size: large;
+}
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #E0EEF1;
+    font-style: normal;
+    font-size: x-large;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #CDCDCD;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #CDCDCD;
+}
+.container-fluid .container .text-center.text-capitalize {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+
+}
+.container-fluid .container footer {
+}
